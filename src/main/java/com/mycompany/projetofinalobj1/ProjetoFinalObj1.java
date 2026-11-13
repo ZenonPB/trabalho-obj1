@@ -6,7 +6,7 @@ package com.mycompany.projetofinalobj1;
 
 /**
  *
- * @author aluno
+ * @author Antonio Casali Ronchini, Fernando Santos Sinoara, Zenon Parelli Bergamo
  */
 public class ProjetoFinalObj1 {
 
